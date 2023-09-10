@@ -17,7 +17,7 @@ int main(void)
 
 	if (abs(n) % 10 > 5)
 {
-	printf(" and is greater than 5\n");
+	printf(" and is greater than -8\n");
 }
 	else if (abs(n) % 10 == 0)
 {

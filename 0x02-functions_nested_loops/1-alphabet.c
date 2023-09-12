@@ -10,10 +10,9 @@
 {
 	/* Implementation of _putchar */
 	write(1, &c, 1);
-}
 
 	void print_alphabet(void);
-	{
+
 	char letter = 'a';
 
 	while (letter <= 'z')
